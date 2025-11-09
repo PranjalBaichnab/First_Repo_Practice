@@ -1,2 +1,2 @@
 # First_Repo_Practice
-This is for practice 
+This is for practice of Git and Github 
